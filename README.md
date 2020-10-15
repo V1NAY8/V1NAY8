@@ -21,5 +21,5 @@
 <img align="left" alt="Vinay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=V1NAY8&show_icons=true&hide_border=true"/>
 
 
-[twitter]: https://twitter.com/V1NAY8
+[twitter]: https://twitter.com/pvinay1998/
 [linkedin]: https://www.linkedin.com/in/saivinay8/
