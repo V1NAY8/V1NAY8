@@ -1,14 +1,14 @@
-### Hi there 👋 I'm Currently Working as Quality Assurance Engineer at Wipro Technologies
+### Hi there 👋 I'm Currently Working as Software Engineer at Wipro Technologies
 
 
 ### Currently working on: 
-- Learning Python 🐍
 - Contributing to more open source projects 💻 💻 💻
 
 ### Technologies
 - Python
 - Java
 - PostgreSQL and SQL Server
+- Docker Containerization
 
 ### Connect with me: 
 [<img align="left" alt ="Vinay's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
