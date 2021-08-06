@@ -21,4 +21,5 @@ Competitive Programming | Open Source Software Contributor | Tech Geek
 <img alt="Vinay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=V1NAY8&show_icons=true&hide_border=true&theme=gotham&include_all_commits=true&count_private=true" width=530/> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1NAY8&custom_title=Languages%20I%20have%20used&layout=compact&theme=radical" width=370/>
 
 
+![Visitor Count](https://profile-counter.glitch.me/{V1NAY8}/count.svg)
 
