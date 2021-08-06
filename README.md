@@ -2,10 +2,13 @@
 
 I am currently working as Software Developer (Backend) at Wipro Technologies Ltd.
 
+Competitive Programming | Open Source Software Contributor | Tech Geek
+
+
 [![Twitter URL](https://img.shields.io/badge/Connect%20with%20me%20on%20-Twitter-blue)](https://twitter.com/pvinay1998)
 [![LinkedIn URL](https://img.shields.io/badge/Connect%20with%20me%20on%20-LinkedIn-blue)](https://www.linkedin.com/in/saivinay8/)
-[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/)  
 ---
+
 
 ### :technologist: Dev Stack
 
