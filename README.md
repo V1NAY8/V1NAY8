@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Sai Vinay. 
 
-I am currently working as Software Developer (Backend) at Wipro Technologies Ltd.
+I am a Backend Software Developer.
 
 Competitive Programming | Open Source Software Contributor | Tech Geek
 
