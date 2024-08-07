@@ -1,11 +1,9 @@
 ### Hi there 👋 I am Sai Vinay. 
 
-I am a Backend Software Developer.
+I am a Software Developer.
 
 Competitive Programming | Open Source Software Contributor | Tech Geek
 
-
-[![Twitter URL](https://img.shields.io/badge/Connect%20with%20me%20on%20-Twitter-blue)](https://twitter.com/pvinay1998)
 [![LinkedIn URL](https://img.shields.io/badge/Connect%20with%20me%20on%20-LinkedIn-blue)](https://www.linkedin.com/in/saivinay8/)
 ---
 
